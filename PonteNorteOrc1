@@ -8,13 +8,13 @@
        <h1> Ponte Norte de Orthanc </h1
         <hr>
 
-        <p> Você então tenta explicar a situação ao orc, informando a ele que precisa passar para a torre de orthanc.</p>
+        <p> Você não quer muito falar com o orc então já empunha sua arma e decide lutar de um vez para prosseguir seu caminho até a torre de orthanc.</p>
 
         <p> FORÇA: Você precisa de 14 no dado para matar o orc com um golpe fatal (Em caso de erro perde 1 vida).
-        <p> CARISMA: Você precisa de 12 no dado para convecer o orc a passar para torre (Só pode ser feito o teste 1 vez, em caso de erro precisa passar no teste de força).
 
         <a href=https://www.rfaelvitor.github.io/capitulo_1 target="_blank"> Clique aqui caso acerte no teste</a>
         <a href=https://www.rfaelvitor.github.io/capitulo_1 target="_blank"> Clique aqui caso sua vida foi zerada</a>
-    </body>
+   
+</body>
 
 </html>
