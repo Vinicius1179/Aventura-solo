@@ -1,1 +1,16 @@
+<html lang="pt-br">
+    <head>
+        <title> Você Morreu! </title>
+        <META CHARSET="UTF-8">
+    </head>
 
+
+    <body>
+
+
+        <h1> VOCÊ MORREU! </h1>
+
+        <hr>
+        <p> Seus pontos de vidas foram zerados e infelizmente sua aventura acabou. Você deseja voltar ao inicio da seleção dos personagens? <a href=https://www.rfaelvitor.github.io/capitulo_1 target="_blank" Sim ></a></p
+    </body>
+</html>
